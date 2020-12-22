@@ -41,7 +41,7 @@
                         "Super Clean"<small> Lavado de Vehículos</small>
                         
                     </h1>
-                    <p>Pinche <a href="https://marcoramos43.github.io/SuperClean/"target="_blank">AQUÍ</a> para ir a <strong>GitHub Pages</strong></p>
+                    <p>Pinche <a href="https://marcoramosteam.github.io/SuperClean/"target="_blank">AQUÍ</a> para ir a <strong>GitHub Pages</strong></p>
                 </div>
             </div>
         </div>
